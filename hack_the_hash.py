@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 
-# BGDN-Group
-# IMO +993 62632281
-
 from hashlib import sha3_256, sha3_384, sha3_512
 from hashlib import sha256,sha384,sha512
 from os.path import exists
@@ -192,3 +189,6 @@ try:
 except KeyboardInterrupt:
 	print("Password Recovery has been stopped!")
 	raise SystemExit
+
+# BGDN-Group
+# IMO +993 62632281
